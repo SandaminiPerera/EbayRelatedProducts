@@ -25,7 +25,7 @@ Ensuring proper display of product information
 The tests are written using Playwright, a powerful end-to-end testing framework.
 
 
-# 2.prequisites
+# 2.prerequisites
 
 Ensure you have the following installed:
 Node.js (v14 or higher)
